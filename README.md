@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **hangjaihk@gmail.com**
 
-- ⚡ Fun fact **Ethereum was a crowdfunded project.**
+- ⚡ Fun fact **Sushi taste so good!**
 
 <p align="left">
 </p>
