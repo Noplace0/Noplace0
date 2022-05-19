@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate in **Blockchain and Web3 tech**
 
-- 📫 How to reach me **hangjaihk@gmail.com**
+- 📫 How to reach me **toddycheng@gmail.com**
 
 - ⚡ Fun fact **Ethereum was a crowdfunded project.**
 <p align="left">
