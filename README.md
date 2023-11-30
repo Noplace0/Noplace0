@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Toddy</h1>
 <h3 align="center">A computer science frontend/backend developer from Hong Kong</h3>
 
-- 🔭 I’m currently working on **Firebase reactjs website and PHP website**
+- 🔭 I’m currently working on **Firebase reactjs website and Vue website**
 
-- 🌱 I’m currently learning **Go and Full stack**
+- 🌱 I’m currently learning ** Full stack **
 
 - 👯 I’m looking to collaborate in **Blockchain and Web tech**
 
